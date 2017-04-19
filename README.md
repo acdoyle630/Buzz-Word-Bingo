@@ -1,4 +1,4 @@
-# Buzz Word Bingo
+d# Buzz Word Bingo
 **About the game**
 
 Before a meeting the players are asked to enter words with point values. A player can enter a total of **5 words at most**. Once a meeting starts if a word that the player previously entered is heard during a meeting that player can mark that word and score the points increasing their score. Each time the player scores a new word the total increases by the point value.
